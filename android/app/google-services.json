@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582793043542",
+    "project_id": "apna-instagram-108",
+    "storage_bucket": "apna-instagram-108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582793043542:android:79098d07c6bc63bdfca5f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAapDavBruymHrj5_eaoAHQeLMyCKx7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
